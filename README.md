@@ -1,16 +1,11 @@
 # Book Recommendation System 📚 
 
-A smart and simple machine learning project that recommends books based on similarity scores. Built using Python and Flask.
-
----
-
-## 🧾 Description
-
+A smart and simple machine learning project that recommends books based on similarity scores. Built using Python and Flask. <br>
 This Book Recommendation System helps users discover new books similar to the ones they like. It uses collaborative filtering techniques and pre-trained data for accurate and fast recommendations.
 
 ---
 
-## 🔍 Overview
+## ✨ Overview
 
 - 👩‍💻 Developed in Python using Flask for web backend
 - 📦 Uses pre-processed `.pkl` files for fast response
@@ -19,7 +14,7 @@ This Book Recommendation System helps users discover new books similar to the on
 
 ---
 
-## ✨ Key Features
+## 🔥Key Features
 
 - 📖 Book recommendation system
 - ⚡ Fast predictions using pre-trained data
@@ -28,7 +23,7 @@ This Book Recommendation System helps users discover new books similar to the on
 
 ---
 
-## 🧰 Tech Stack
+## 🛠 Tech Stack
 
 - **Python** (Core Logic)
 - **Flask** (Web Framework)
@@ -43,7 +38,12 @@ This Book Recommendation System helps users discover new books similar to the on
 You can find all screenshots in the `Preview/` folder.
 
 > For demo video: `Preview/Recording.mp4`  
-> For UI and output previews: `Preview/*.png`
+
+### 🏠 Home Page
+![Home](Preview/pic1.png)
+
+### 📚 Recommendation Page
+![Recommend](Preview/pic3.png)
 
 ---
 
