@@ -16,20 +16,27 @@ This Book Recommendation System helps users discover new books similar to the on
 
 ## 🔥Key Features
 
-- 📖 Book recommendation system
-- ⚡ Fast predictions using pre-trained data
-- 💻 Simple and clean web interface
-- 🎯 Personalized suggestions based on similarity scores
+🔹 Book recommendation system
+🔹 Fast predictions using pre-trained data
+🔹 Simple and clean web interface
+🔹 Personalized suggestions based on similarity scores
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Python** (Core Logic)
-- **Flask** (Web Framework)
-- **HTML/CSS** (Frontend templates)
-- **Pickle** (Model/Data Storage)
-- **Bootstrap** (UI Styling)
+- **Frontend:** HTML, CSS (via Flask templates)
+- **Backend:** Python, Flask
+- **Data Processing:** Pandas, NumPy, Pickle
+- **Model Storage:** Pre-trained `.pkl` files
+- **Version Control:** Git & GitHub
+
+**🎯 Why This Matters?**
+
+- Book lovers often struggle to find what to read next.
+- Many recommendation systems are behind paywalls or login screens.
+- This project provides a simple, open-source, and effective way to get personalized book suggestions.
+- Perfect for beginners in ML or web dev to understand recommendation systems.
 
 ---
 
@@ -45,26 +52,14 @@ You can find all screenshots in the `Preview/` folder.
 ### 📚 Recommendation Page
 ![Recommend](Preview/pic3.png)
 
----
-
-## 💬 Like the project?
-
-If you found this helpful:
-
-- ⭐ Star this repo
-- 🍴 Fork it to improve
-- 🐛 Report issues
-- 🤝 Connect with me below
+### 📖 Top Books Page
+![Top Book](Preview/pic2.png)
 
 ---
 
-## 👩‍💻 Author
+## 📬 Contact
 
-**Sandhya Kishorbhai Rana**  
-🔗 GitHub: [@Sandhya-1401](https://github.com/Sandhya-1401)
+Created by **Sandhya** | [LinkedIn](https://www.linkedin.com/in/rana-sandhya) | [Github](https://github.com/Sandhya-1401)  
+For any queries or collaborations, feel free to connect. <br>
 
----
-
-## 📃 License
-
-This project is for educational purposes only.
+### ⭐ **If you like this project, don’t forget to Star it on GitHub !!** ⭐  
