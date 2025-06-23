@@ -7,10 +7,10 @@ This Book Recommendation System helps users discover new books similar to the on
 
 ## ✨ Overview
 
-- 👩‍💻 Developed in Python using Flask for web backend
-- 📦 Uses pre-processed `.pkl` files for fast response
-- 📸 Screenshot previews available in the `Preview/` folder
-- 💡 Ideal for ML learners and portfolio projects
+- Developed in Python using Flask for web backend
+- Uses pre-processed `.pkl` files for fast response
+- Screenshot previews available in the `Preview/` folder
+- Ideal for ML learners and portfolio projects
 
 ---
 
