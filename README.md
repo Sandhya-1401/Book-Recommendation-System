@@ -16,9 +16,9 @@ This Book Recommendation System helps users discover new books similar to the on
 
 ## 🔥Key Features
 
-🔹 Book recommendation system
-🔹 Fast predictions using pre-trained data
-🔹 Simple and clean web interface
+🔹 Book recommendation system <br>
+🔹 Fast predictions using pre-trained data <br>
+🔹 Simple and clean web interface <br>
 🔹 Personalized suggestions based on similarity scores
 
 ---
